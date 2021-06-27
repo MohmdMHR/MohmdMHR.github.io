@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="027b7e14-de85-4fb4-97e1-9600d62089f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cv/resume-en.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv/resume-fr.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/resume-en.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv/resume-en.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/resume-fr.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv/resume-fr.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,8 @@
       <updated>1617550936995</updated>
       <workItem from="1617550940284" duration="1520000" />
       <workItem from="1619374011518" duration="1019000" />
-      <workItem from="1622984320417" duration="1206000" />
+      <workItem from="1622984320417" duration="1933000" />
+      <workItem from="1624809617716" duration="276000" />
     </task>
     <servers />
   </component>
